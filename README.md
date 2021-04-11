@@ -1,17 +1,20 @@
 # spring-topic-links
 
 #Basic
+
 https://www.adevguide.com/all-spring-annotations-cheat-sheet/
 https://www.jrebel.com/blog/spring-annotations-cheat-sheet
 https://blog.scottlogic.com/2019/07/15/Getting-to-grips-with-Spring.html
 
 #Anotations
+
 https://stackoverflow.com/questions/48447779/difference-between-primary-vs-autowired-with-qualifier-annotations/48447910
 https://www.baeldung.com/spring-order
 https://www.baeldung.com/spring-depends-on
 https://javarevisited.blogspot.com/2017/08/difference-between-restcontroller-and-controller-annotations-spring-mvc-rest.html#axzz6rNFqKWZE
 
 #Spring architecture
+
 https://docs.spring.io/spring-framework/docs/5.0.0.RC2/spring-framework-reference/overview.html
 
 #Bean lifecycle
