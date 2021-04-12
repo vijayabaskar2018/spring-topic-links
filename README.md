@@ -134,5 +134,9 @@ https://www.marcobehler.com/guides/spring-security-oauth2
 
 https://www.toptal.com/spring/spring-security-tutorial
 
+https://www.imperva.com/learn/application-security/csrf-cross-site-request-forgery/
+
+https://auth0.com/blog/cors-tutorial-a-guide-to-cross-origin-resource-sharing/
+
 
 
