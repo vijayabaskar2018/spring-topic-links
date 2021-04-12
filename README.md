@@ -125,3 +125,14 @@ https://dzone.com/articles/how-annotations-work-java
 
 https://belief-driven-design.com/java-annotations-explained-4f54e6e6c3f/
 
+
+Spring Security
+
+https://www.marcobehler.com/guides/spring-security
+
+https://www.marcobehler.com/guides/spring-security-oauth2
+
+https://www.toptal.com/spring/spring-security-tutorial
+
+
+
